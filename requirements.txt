@@ -1,0 +1,4 @@
+fastapi==0.63.0
+keybert==0.2.0
+sentence-transformers==1.1.0
+uvicorn==0.13.4
