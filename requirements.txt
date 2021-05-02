@@ -1,4 +1,4 @@
-torch==1.8.1+cpu
+https://download.pytorch.org/whl/cpu/torch-1.8.1-cp39-cp39-manylinux2014_aarch64.whl
 fastapi==0.63.0
 sentence-transformers==1.1.0
 uvicorn==0.13.4
