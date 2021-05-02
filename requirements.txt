@@ -1,5 +1,5 @@
 torch @ https://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp39-cp39-linux_x86_64.whl
 fastapi==0.63.0
 sentence-transformers==1.1.0
-keyhbert==0.2.0
+keybert==0.2.0
 uvicorn==0.13.4
